@@ -28,11 +28,13 @@ To install ChuckNorrisJokes, follow these steps:
    git clone https://github.com/yourusername/ChuckNorrisJokes.git
 
 2. Navigate to the project directory:
-
+   
+   ```bash
    cd ChuckNorrisJokes
 
-3. Compile the project using Maven:
+4. Compile the project using Maven:
    
+   ```bash
    mvn clean install
 
 ## Usage
@@ -41,6 +43,7 @@ To use ChuckNorrisJokes, follow these steps:
 
 1. Run the application:
 
+```bash
    java -jar target/Httpclientt-0.0.1-SNAPSHOT.jar
    
 3. The application will fetch Chuck Norris jokes from the API and display them in the console.
