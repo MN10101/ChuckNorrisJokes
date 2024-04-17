@@ -54,8 +54,9 @@ To use ChuckNorrisJokes, follow these steps:
 
 ```bash
    java -jar target/Httpclientt-0.0.1-SNAPSHOT.jar
+
    
-3. The application will fetch Chuck Norris jokes from the API and display them in the console.
+2. The application will fetch Chuck Norris jokes from the API and display them in the console.
 
 ## Dependencies
 
