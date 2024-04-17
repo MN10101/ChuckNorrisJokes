@@ -42,6 +42,7 @@ To install ChuckNorrisJokes, follow these steps:
 To use ChuckNorrisJokes, follow these steps:
 
 1. Run the application:
+   ```bash
    - java -jar target/Httpclientt-0.0.1-SNAPSHOT.jar
    
 2. The application will fetch Chuck Norris jokes from the API and display them in the console.
