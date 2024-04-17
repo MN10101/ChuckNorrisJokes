@@ -18,6 +18,14 @@ Before you begin, ensure you have met the following requirements:
 - Apache Maven installed on your machine.
 - Access to the internet to fetch Chuck Norris jokes from the API.
 
+## Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+- Java installed on your machine.
+- Apache Maven installed on your machine.
+- Access to the internet to fetch Chuck Norris jokes from the API.
+
 ## Installation
 
 To install ChuckNorrisJokes, follow these steps:
@@ -36,6 +44,7 @@ To install ChuckNorrisJokes, follow these steps:
    
    ```bash
    mvn clean install
+
 
 ## Usage
 
@@ -57,11 +66,13 @@ ChuckNorrisJokes relies on the following dependencies:
 - JSON - Library for JSON processing.
 - Spring Boot - Framework for building Java applications.
 
-## Author
-- Mahmoud Najmeh
-
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+## Author
+
+- Mahmoud Najmeh
+
 
 ![1](https://github.com/MN10101/ChuckNorrisJokes/assets/78208459/1a83e512-356a-48c3-92df-ee700ba88a5f)
