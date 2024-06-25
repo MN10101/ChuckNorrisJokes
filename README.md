@@ -56,10 +56,6 @@ ChuckNorrisJokes relies on the following dependencies:
 - JSON - Library for JSON processing.
 - Spring Boot - Framework for building Java applications.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
 ## Author
 
 - Mahmoud Najmeh
