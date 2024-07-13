@@ -25,7 +25,7 @@ To install ChuckNorrisJokes, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/ChuckNorrisJokes.git
+   git clone https://github.com/MN10101/ChuckNorrisJokes
 
 2. Navigate to the project directory:
    
